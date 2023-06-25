@@ -6,6 +6,7 @@ h1 {
     background:blue;
     font-size:36pt;
     color:green;
+    padding-left:60px
 
 
     }
@@ -22,4 +23,7 @@ h1 {
     font-weight:bold;
     font-size:22px;
     font-family:"Courier New";
+    padding-left:60px;
+
 }
+
